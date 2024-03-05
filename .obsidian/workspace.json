@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "3204810803116094",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e47367f560c4e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4337ecb17575465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 00 - Intro Class.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5104b799c16754fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 00 - Intro Class.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cff2456a66a894c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05296f94da0d727b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76f93ae440fa4b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cbddc948fbe8f59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85d4127605e1ebc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56fd31fe66185eb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d97ab0e761cab3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f39cce33b4e34dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ead55bfa1e7e802c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture 00 - Intro Class.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83e91ade0711111f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lecture 00 - Intro Class.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36999ff4b39e25cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c317ff3dc9777e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lecture 00 - Intro Class.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4337ecb17575465",
+  "lastOpenFiles": [
+    "ML - Syllabus.md",
+    "Welcome.md",
+    "Lecture 04 - Logistic Regression.md",
+    "Lecture 01 - Naive Bayes Classifier and KNN.md",
+    "Lecture 07 - Ensembles.md",
+    "Lecture 00 - Intro Class.md",
+    "Lecture 05 - Dimensionality Reduction.md",
+    "Lecture 06 - Decision Trees.md",
+    "Lecture 03 - Linear Regression.md",
+    "Lecture 02 - Clustering.md"
+  ]
+}

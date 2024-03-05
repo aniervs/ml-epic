@@ -1,0 +1,87 @@
+## Overview
+- This course will provide a comprehensive curriculum in modern Machine Learning methods, including pre-Deep learning methods (for e.g: SVMs, PCA, ...) as well as Deep Learning methods (and different applications such as Computer Vision and Natural Language Processing).
+## Prerequisites
+- Linear algebra
+- Calculus and Optimization
+- Probabilities and Statistics
+- Python Programming 
+- Algorithms and Data Structures
+## Bibliography
+
+- **Author**: Kevin P. Murphy
+- **Title**: Probabilistic Machine Learning: An Introduction
+- **Publisher**: MIT Press
+- **Year**: 2022
+- **URL**: [probml.ai](http://probml.ai)
+
+## Outline
+
+- Lecture 0:
+	- Intro to ML. Overview of the course.
+		- What's Machine Learning?
+		- Overview of the main approaches to ML.
+		- Main datasets.
+- Lecture 1: First methods on Supervised Learning
+	- Naive-Bayes classifier.
+	- K-Nearest Neighbors .
+- Lecture 2: Clustering
+	- K-Means.
+	- Hierarchical clustering.
+	- DBSCAN.
+- Lecture 3: Linear Regression.
+	- Probabilistic statement. MLE and MAP approaches.
+	- Analytic solution. Gauss-Markov Theorem.
+	- Gradient descent.
+	- Polynomial features.
+	- Overfitting.
+	- Regularization.
+- Lecture 4: Logistic Regression.
+	- Probabilistic statement.
+- Lecture 5: Dimensionality Reduction
+	- PCA
+	- T-SNE
+	- U-map
+- Lecture 6: Decision Trees
+- Lecture 7: Ensembles
+- Lecture 8: Gradient Boosting
+- Lecture 9: Support Vector Machines
+- Lecture 10: Intro to Deep Learning
+	- Neural Networks
+	- XOR Problem
+	- Activation functions
+	- Backpropagation
+- Lecture 11: Gradient-based Optimization survey
+	- Gradient Descent.
+		- SGD
+		- Momentum
+		- Nesterov's momentum
+		- Adaptative Learning Rate Methods: Adagrad, RMSprop, Adam, ...
+	- Conjugate Gradient.
+	- Newton's Method.
+	- Quasi-Newton Methods.
+- Lecture 12:  Training NNs:
+	- Initialization
+	- LR tuning
+	- Vanishing and exploding gradients
+	- Regularization
+		- Early stopping
+		- Weight decay
+		- Dropout
+		- Batch Norm 
+		- Layer Norm 
+- Lecture 13: Image classification
+	- Convolutions
+	- Convolutional NNs
+- Lecture 14: More on CNNs
+	- Common architectures for image classification
+- Lecture 15: More on CNNs
+	- Other problems in Computer Vision
+		- Object detection
+		- Segmentation
+- Lecture 16: Image generation (some approaches)
+- Lecture 17: Intro to Natural Language Processing
+- Lecture 18: NNs for sequences 1
+- Lecture 19: NNs for sequences 2
+- Lecture 20: Attention mechanism
+- Lecture 21: Transformers
+- Lecture 22: More on Representation learning 
