@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 00 - Intro Class.md",
+                "file": "ML - Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 00 - Intro Class.md",
+                "file": "ML - Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 00 - Intro Class.md",
+                "file": "ML - Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 00 - Intro Class.md"
+                "file": "ML - Syllabus.md"
               }
             }
           }
@@ -168,12 +168,13 @@
   },
   "active": "d4337ecb17575465",
   "lastOpenFiles": [
+    "Lecture 00 - Intro Class.md",
+    "README.md",
     "ML - Syllabus.md",
     "Welcome.md",
     "Lecture 04 - Logistic Regression.md",
     "Lecture 01 - Naive Bayes Classifier and KNN.md",
     "Lecture 07 - Ensembles.md",
-    "Lecture 00 - Intro Class.md",
     "Lecture 05 - Dimensionality Reduction.md",
     "Lecture 06 - Decision Trees.md",
     "Lecture 03 - Linear Regression.md",
